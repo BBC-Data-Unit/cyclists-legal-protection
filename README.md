@@ -13,3 +13,7 @@ The Cyclists Defence Fund, set up by the charity Cycling UK to help with legal c
 * Bar chart: fewer than half of drivers who killed cyclists were jailed
 * Line chart: Fall in road policing in England and Wales
 * Line chart: Cyclist casualty rates
+
+## Related repos
+
+* [Froome crash: How dangerous is cycling on the roads?](https://github.com/BBC-Data-Unit/cycling-crashes)
